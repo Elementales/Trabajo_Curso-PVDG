@@ -10,6 +10,7 @@ README
 El proyecto contiene 3 partes, las que se describen a continuación:
 
 1. Web Scrapping: Extracción de información de página web
+
 En esta parte se realizó una extracción de datos a través d web scrapping en 
 URL = 'https://www.rastro.com/resultado.html?q=&cl=1001&c=&Optz=&t='
 
