@@ -14,8 +14,10 @@ El proyecto contiene 3 partes, las que se describen a continuación:
 En esta parte se realizó una extracción de datos a través d web scrapping en 
 URL = 'https://www.rastro.com/resultado.html?q=&cl=1001&c=&Optz=&t='
 
-A partir de esta extracción se generaron 2 archivos CSV para generar 2 visualizaciones: 
+A partir de esta extracción se generaron 2 archivos CSV para generar 2 visualizaciones:
+
 A)	Gráfico 1 de Líneas (UsoAutos.csv); y 
+
 B)	Gráfico 2 de Barras (MarcaAutos.csv)
 
 En la página se pueden descargar ambos archivos.
