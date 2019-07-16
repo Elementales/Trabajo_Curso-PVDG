@@ -54,7 +54,7 @@ attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreet
 }).addTo(map)
 
 ## VISUALIZACIÓN
-La URL de la página web donde se mostran las visyalizaciones obtenidas a través de ambos métodos, así como los archivos generados en cada caso es la siguiente:
+La URL de la página web donde se muestran las visualizaciones obtenidas a través de ambos métodos (1. y 2.), así como los archivos generados en cada caso, es la siguiente:
 
 https://elementales.github.io/Trabajo_Curso-PVDG/
 
