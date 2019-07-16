@@ -58,5 +58,7 @@ La URL de la página web donde se mostran las visyalizaciones obtenidas a travé
 
 https://elementales.github.io/Trabajo_Curso-PVDG/
 
+Ubicación del repositorio donde se encuentran los archivos: https://github.com/Elementales/Trabajo_Curso-PVDG
+
 Nota: Se recomienda ejecutar en navegador FireFox.
 
