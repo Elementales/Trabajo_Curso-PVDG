@@ -53,7 +53,7 @@ d3.csv('UsoAutos.csv')
         },
         options: {
             scales: {
-                xAxes: [{
+                yAxes: [{
                     ticks: {
                         beginAtZero: true
                     }
