@@ -53,7 +53,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map)
 
-# VISUALIZACIÓN
+## VISUALIZACIÓN
 La URL de la página web donde se mostran las visyalizaciones obtenidas a través de ambos métodos, así como los archivos generados en cada caso es la siguiente:
 
 https://elementales.github.io/Trabajo_Curso-PVDG/
