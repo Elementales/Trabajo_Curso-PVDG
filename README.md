@@ -1,6 +1,6 @@
 # README
 
-* Se crea repositorio GitHub (llamado Trabajo_Curso-PVDG
+* Se crea repositorio GitHub llamado **Trabajo_Curso-PVDG**
 * Se registran en el repositorio los avances de su código (commits y push respectivos).
 * Se publicar Online el proyecto, mediante GitHub Pages.
 
