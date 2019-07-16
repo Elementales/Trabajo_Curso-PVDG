@@ -24,14 +24,14 @@ d3.csv('UsoAutos.csv')
                 label: 'Ofertas',
                 data: datosmenciones,
                 backgroundColor: [
-                    'rgba(255, 99, 132, 0.2)'
-                    
+                    'rgba(54, 162, 235, 0.2)'                    
                 ],
                 borderColor: [
-                    'rgba(255, 99, 132, 1)'
+                    'rgba(255, 159, 64, 1)'
+                    
 
                 ],
-                borderWidth: 1
+                borderWidth: 3
             }]
         },
         options: {
