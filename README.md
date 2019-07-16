@@ -8,7 +8,7 @@ El proyecto contiene 2 módulos principales, para cada uno de ellos se indican l
 
 ## MÓDULOS 
 
-**1. Web Scrapping: Extracción de información de página web**
+## 1. Web Scrapping: Extracción de información de página web
 En esta parte se realizó una extracción de datos a través d web scrapping en 
 URL = 'https://www.rastro.com/resultado.html?q=&cl=1001&c=&Optz=&t='
 
@@ -34,9 +34,10 @@ En la página se pueden descargar ambos archivos.
 * npm install chart.js --save
 
 
-**2. Procesamiento de información de archivo Excel: XSLX Reader**
+## 2. Procesamiento de información de archivo Excel: XSLX Reader
 
 En esta parte, el procedimiento utilizado fue leer y procesar un archivo en formato Excel, xlsx Reader, a partir del cual, en combinación con un archivo de formato **Geojson** con las regiones de Chile (con las respectivas coordenadas), se pudo generar un Mapa para visualizar en él los datos contenidos en el archivo Excel (Teniendo en común el nombre de las regiones). 
+El archivo excel contiene datos referentes a proyectos adjudicados en el marco de Concursos gestionados por el Programa Regional de CONICYT. A partir de este archivo y el Geojson de regiones de Chile se generó un Json.
 
 Para la creación del mapa con la capa base se utilizó la librería **Leaflet**, la cual está escrita en código JavaScript.
 
@@ -52,5 +53,6 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map)
 
-El archivo excel contiene datos referentes a proyecto adjudicados en el marco de Concursos gestionados por el Programa Regional de CONICYT. A partir de este archivo y el Geojson de regiones de Chile se generó un Json.
+
+
 
