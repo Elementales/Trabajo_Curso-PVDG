@@ -31,7 +31,7 @@ d3.csv('UsoAutos.csv')
                     
 
                 ],
-                borderWidth: 3
+                borderWidth: 2
             }]
         },
         options: {
