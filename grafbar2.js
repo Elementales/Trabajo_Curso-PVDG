@@ -48,7 +48,7 @@ d3.csv('MarcaAutos.csv')
                     'rgba(54, 102, 86, 0.2)'
 
                 ],
-                borderWidth: 1
+                borderWidth: 2
             }]
         },
         options: {
